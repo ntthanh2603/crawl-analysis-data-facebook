@@ -1,10 +1,10 @@
-Tên dự án: Thu thập và phân tích dữ liệu về trang chủ Facebook của đội bóng Liverpool FC
+### Tên dự án: Thu thập và phân tích dữ liệu về trang chủ Facebook của đội bóng Liverpool FC
 
-Sinh viên thực hiện: Nguyễn Tuấn Thành
+#### Sinh viên thực hiện: Nguyễn Tuấn Thành
 
-Mã sinh viên: 22022624
+####Mã sinh viên: 22022624
 
-Mục tiêu:
+#### Mục tiêu:
 
 Thu thập dữ liệu về các bài đăng trên trang chủ Facebook của đội bóng Liverpool FC trong thời gian từ ngày 01/11/2023 đến ngày 01/12/2023.
 
@@ -44,8 +44,8 @@ Phân tích dữ liệu định lượng
 
 Phân tích dữ liệu định tính
 
-Nội dung phân tích thì cùng mình tìm hiểu trong file report.pdf hoặc report.docx nhé
+#### Nội dung phân tích thì cùng mình tìm hiểu trong file report.pdf hoặc report.docx nhé
 
-Nếu có thêm góp ý hãy nhắn tin cho tôi nhé FB: [https://www.facebook.com/tuanthanh.26.03.2004](https://www.facebook.com/ntthanh2603)
+#### Nếu có thêm góp ý hãy nhắn tin cho tôi nhé FB: [https://www.facebook.com/tuanthanh.26.03.2004](https://www.facebook.com/ntthanh2603)
 
-Cảm ơn bạn vì đã đọc project này của tôi
+#### Cảm ơn bạn vì đã đọc project này của tôi
