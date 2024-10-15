@@ -46,6 +46,6 @@ Phân tích dữ liệu định tính
 
 Nội dung phân tích thì cùng mình tìm hiểu trong file report.pdf hoặc report.docx nhé
 
-Nếu có thêm góp ý hãy nhắn tin cho tôi nhé FB: https://www.facebook.com/tuanthanh.26.03.2004
+Nếu có thêm góp ý hãy nhắn tin cho tôi nhé FB: [https://www.facebook.com/tuanthanh.26.03.2004](https://www.facebook.com/ntthanh2603)
 
 Cảm ơn bạn vì đã đọc project này của tôi
