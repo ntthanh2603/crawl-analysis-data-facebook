@@ -1,51 +1,53 @@
-### Tên dự án: Thu thập và phân tích dữ liệu về trang chủ Facebook của đội bóng Liverpool FC
+# 📊 **Thu thập và phân tích dữ liệu về trang chủ Facebook của đội bóng Liverpool FC** ⚽
 
-#### Sinh viên thực hiện: Nguyễn Tuấn Thành
+### Sinh viên thực hiện:
+**Nguyễn Tuấn Thành**  
+Mã sinh viên: `22022624` 🎓
 
-#### Mã sinh viên: 22022624
+---
 
-#### Mục tiêu:
+## 🎯 Mục tiêu:
 
-Thu thập dữ liệu về các bài đăng trên trang chủ Facebook của đội bóng Liverpool FC trong thời gian từ ngày 01/11/2023 đến ngày 01/12/2023.
+- **Thu thập dữ liệu** 📅 về các bài đăng trên trang chủ Facebook của đội bóng **Liverpool FC** trong khoảng thời gian từ **01/11/2023 đến 01/12/2023**.
+  
+- **Phân tích dữ liệu** 🔍 thu thập được để tìm hiểu các xu hướng và thông tin liên quan đến đội bóng Liverpool FC.
 
-Phân tích dữ liệu thu thập được để tìm hiểu các xu hướng và thông tin liên quan đến đội bóng Liverpool FC.
+---
 
-Dữ liệu thu thập:
+## 🧑‍💻 Dữ liệu thu thập:
 
-Dữ liệu được thu thập từ trang chủ Facebook của đội bóng Liverpool FC bằng cách sử dụng thư viện facebook_scraper trong Python. Dữ liệu thu thập được bao gồm các thông tin sau:
+Dữ liệu được thu thập từ trang chủ Facebook của Liverpool FC bằng cách sử dụng thư viện `facebook_scraper` trong Python. Các thông tin thu thập được bao gồm:
 
-ID bài đăng
+- **ID bài đăng** 🆔
+- **Tiêu đề bài đăng** 📝
+- **Nội dung bài đăng** ✍️
+- **Ngày đăng bài** 📅
+- **Số lượt thích** 👍
+- **Số biểu cảm** ❤️😆😢😮😡
+- **Số lượt chia sẻ** 🔁
+- **Số lượt bình luận** 💬
+- **Nội dung bình luận** 🗨️
 
-Tiêu đề bài đăng
+---
 
-Nội dung bài đăng
+## 📊 Phân tích dữ liệu:
 
-Ngày đăng bài
+Dữ liệu thu thập được sẽ được phân tích bằng các công cụ và kỹ thuật phân tích dữ liệu phổ biến như:
 
-Số lượt thích
+- **Thư viện sử dụng**: `Pandas`, `Matplotlib` 📚📊
+- **Thống kê mô tả** 📊
+- **Phân tích dữ liệu định lượng** 💡
+- **Phân tích dữ liệu định tính** 🧠
 
-Số biểu cảm
+Chi tiết về quá trình phân tích có thể tìm thấy trong các tài liệu: [**report.pdf**](#) hoặc [**report.docx**](#).
 
-Số lượt chia sẻ
+---
 
-Số lượt bình luận
+## 📬 Liên hệ:
 
-Nội dung bình luận
+Nếu bạn có góp ý hoặc câu hỏi, đừng ngần ngại nhắn tin cho tôi qua Facebook:  
+[https://www.facebook.com/ntthanh2603](https://www.facebook.com/ntthanh2603) 💬
 
-Phân tích dữ liệu:
+---
 
-Dữ liệu thu thập được được phân tích bằng cách sử dụng các công cụ và kỹ thuật phân tích dữ liệu thông dụng như:
-
-Thư viện: Pandas, Matplotlib
-
-Thống kê mô tả
-
-Phân tích dữ liệu định lượng
-
-Phân tích dữ liệu định tính
-
-#### Nội dung phân tích thì cùng mình tìm hiểu trong file report.pdf hoặc report.docx nhé
-
-#### Nếu có thêm góp ý hãy nhắn tin cho tôi nhé FB: [https://www.facebook.com/tuanthanh.26.03.2004](https://www.facebook.com/ntthanh2603)
-
-#### Cảm ơn bạn vì đã đọc project này của tôi
+Cảm ơn bạn đã đọc và quan tâm đến dự án của tôi! 🙏🎉
